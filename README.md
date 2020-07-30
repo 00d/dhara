@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Dhara
 
-You can use the [editor on GitHub](https://github.com/00d/dhara/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The World At A Glance.
 
 ### Markdown
 
@@ -11,17 +9,20 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Campaign Rules
 
-- Bulleted
-- List
+You can use the [editor on GitHub](https://github.com/00d/dhara/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-1. Numbered
-2. List
+## Featured Races
+### The Vast Array of Classes
 
-**Bold** and _Italic_ and `Code` text
+- The Book of Armaments
+- Bestiary
+
+1. Gazetteer
+2. The Cosmos At A Glance
+
+**The Stage of History**
 
 [Link](url) and ![Image](src)
 ```
