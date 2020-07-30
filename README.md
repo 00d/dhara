@@ -1,38 +1,30 @@
-## Dhara
+# The Dhara Campaign
 
-The World At A Glance.
+- [Campaign Rules](https://github.com/00d/dhara/edit/master/rules.md)
+- Game Logs
 
-### Markdown
+# Featured Ancestries
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Ancestries listed by world, with average Race Points:
 ```markdown
-Syntax highlighted code block
-
-# Campaign Rules
-
-You can use the [editor on GitHub](https://github.com/00d/dhara/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-## Featured Races
-### The Vast Array of Classes
-
-- The Book of Armaments
-- Bestiary
-
-1. Gazetteer
-2. The Cosmos At A Glance
-
-**The Stage of History**
-
-[Link](url) and ![Image](src)
+- [Cantanor - 16 RP](https://github.com/00d/dhara/edit/master/ancestry.md)
+- [Dedamizha - 9 RP](https://github.com/00d/dhara/edit/master/ancestry.md)
+- [Duergarheim - 15 RP](https://github.com/00d/dhara/edit/master/ancestry.md)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# The Vast Array of Classes
 
-### Jekyll Themes
+# Bestiary
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/00d/dhara/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+An abbreviated bestiary of the World Tree
 
-### Support or Contact
+# Gazeteer
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### The Book of Armaments
+
+### Planets, Planes, and Possibilities
+
+### The Stage of History
+
+![Image](src)
+
