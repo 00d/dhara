@@ -1,6 +1,6 @@
 # The Dhara Campaign
 
-![Image](https://images.squarespace-cdn.com/content/v1/555aaa7ee4b0350c2c9cb627/1539697592561-B4TG4NBVXOIP6HY847KH/ke17ZwdGBToddI8pDm48kFEKfIjKOF4uyXj2810Ze_NZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxbaNd6VJb1OwLTLPEnTH8b49FE1QTtH295awIscI7bExsYmZd_bMgJsDFESsMxz2Q/WorldTree_LE_print_web.jpg)
+![Image](https://thumbs.imagekind.com/3611960_650/Yggdrasil-the-World-Tree_art.jpg?v=1593124381)
 
 - [Campaign Rules](https://github.com/00d/dhara/edit/master/rules.md)
 
@@ -28,3 +28,4 @@ An abbreviated bestiary of the World Tree
 ### The Stage of History
 
 
+![Image](https://ctl.s6img.com/society6/img/_tbG6OUvtZUjhgB4rHV88X8eWA8/w_550/comforters/swatch/~artwork,fw_6000,fh_6000,iw_6000,ih_6000/s6-0081/a/32240141_6157939/~~/arbor-mundi-tree-cosmos-comforters.jpg)
