@@ -3,13 +3,13 @@
 # The Dhara Campaign
 
 - At the Crossroads of Everywhere
-- [Campaign Rules](https://github.com/00d/dhara/edit/master/rules.md)
+- [Campaign Rules](https://github.com/00d/dhara/master/rules.md)
 - Adventure Logs
 
 ### Featured Ancestries
 
 Ancestries listed by world, with average Race Points:
-- [Cantanor](https://github.com/00d/dhara/edit/master/ancestry.md) - 16 RP
+- [Cantanor](https://github.com/00d/dhara/master/ancestry.md) - 16 RP
 - Dedamizha - 9 RP
 - Duergarheim - 15 RP
 
