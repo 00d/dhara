@@ -1,27 +1,37 @@
-# The Dhara Campaign
-
 ![Image](https://thumbs.imagekind.com/3611960_650/Yggdrasil-the-World-Tree_art.jpg?v=1593124381)
 
+# The Dhara Campaign
+
+- At the Crossroads of Everywhere
 - [Campaign Rules](https://github.com/00d/dhara/edit/master/rules.md)
+- Adventure Logs
 
 ### Featured Ancestries
 
 Ancestries listed by world, with average Race Points:
-```markdown
 - [Cantanor](https://github.com/00d/dhara/edit/master/ancestry.md) - 16 RP
-- [Dedamizha](https://github.com/00d/dhara/edit/master/ancestry.md) - 9 RP
+- Dedamizha - 9 RP
 - Duergarheim - 15 RP
-```
 
 ### The Vast Array of Classes
 
-### The Book of Armaments
+**Core**
+Barbarian (Unchained) - Bard - Cleric - Fighter - Paladin - Ranger - Rogue (Unchained) - Sorcerer - Wizard
 
-# Bestiary
+
+### More Character Options
+
+- New Skills & Languages
+- New Feats
+- The Book of Armaments
+
+### Bestiary
 
 An abbreviated bestiary of the World Tree
 
 # Gazeteer
+
+### Cantanor
 
 ### Planets, Planes, and Possibilities
 
